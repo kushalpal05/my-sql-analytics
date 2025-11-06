@@ -40,5 +40,5 @@ This project demonstrates:
 - Business acumen to interpret raw data and derive strategic decisions
 
 
-**Mihir Kumar**  
-GitHub: [github.com/Mksingh15](https://github.com/Mksingh15)  
+
+
